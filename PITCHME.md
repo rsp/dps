@@ -49,11 +49,9 @@ it is a runtime written in Rust using Tokio
 
 get a single binary (not even a tarball)
 
----
+https://deno.land/
 
-# Running
-
-work on TS files, run TS files with deno
+https://github.com/denoland/deno/releases
 
 ---
 
@@ -61,15 +59,13 @@ work on TS files, run TS files with deno
 
 import URLs directly
 
----
-
-# Security
-
-no access to files or network by default
+`import { hello } from 'https://pocztarski.com/hello.ts';`
 
 ---
 
 # Running
+
+work on TS files, run TS files with deno
 
 `deno run script.ts`
 
