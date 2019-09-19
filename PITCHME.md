@@ -135,7 +135,7 @@ Using local caches<br>
 
 ---
 
-# Issues
+# GitHub Issues
 
 <small>
 - Capability-based security model [#378](https://github.com/denoland/deno/issues/378)
@@ -153,7 +153,10 @@ Using local caches<br>
 
 # Examples
 
+<small>
 `$ deno --allow-net=localhost --no-prompt run script.ts`
+
+</small>
 
 ---
 
@@ -189,16 +192,13 @@ Papers
 
 ---
 
-# Recommended talks
+Recommended talks
 
-<small>
 - [Ryan Dahl: Original Node.js presentation (2009)](https://www.youtube.com/watch?v=ztspvPYybIY)
 - [History of Node.js by Ryan Dahl (2011)](https://www.youtube.com/watch?v=SAc0vQCC6UQ)
 - [10 Things I Regret About Node.js by Ryan Dahl (2018)](https://www.youtube.com/watch?v=M3BM9TB-8yA)
 - [Deno, A New Server-Side Runtime by Ryan Dahl (2018)](https://www.youtube.com/watch?v=FlTG0UXRAkE)
 - [From Node.js to Deno - JS/TS runtime built with V8 and Rust by Rafał Pocztarski (2019)](https://www.youtube.com/watch?v=Aib1OZLy0_c&t=5s)
-
-</small>
 
 ---
 
