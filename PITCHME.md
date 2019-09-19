@@ -171,8 +171,6 @@ http://www.cap-lore.com/
 
 ---
 
-Interesting Systems
-
 - [OpenBSD](https://www.openbsd.org/)
 - [KeyKOS](http://cap-lore.com/CapTheory/upenn/)
 - [EROS](https://en.wikipedia.org/wiki/EROS_(microkernel))
