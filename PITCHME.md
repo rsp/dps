@@ -140,10 +140,10 @@ Using local caches<br>
 <small>
 - Capability-based security model [#378](https://github.com/denoland/deno/issues/378)
 - More granular privilege separation [#515](https://github.com/denoland/deno/issues/515)
-- Security concern #720](https://github.com/denoland/deno/issues/720)
-- Sandbox mode for external scripts #1639](https://github.com/denoland/deno/issues/1639)
-- Potential security issues with shebang script with flags #1704](https://github.com/denoland/deno/issues/1704)
-- Per-import permissions? #1860](https://github.com/denoland/deno/issues/1860)
+- Security concern [#720](https://github.com/denoland/deno/issues/720)
+- Sandbox mode for external scripts [#1639](https://github.com/denoland/deno/issues/1639)
+- Potential security issues with shebang script with flags [#1704](https://github.com/denoland/deno/issues/1704)
+- Per-import permissions? [#1860](https://github.com/denoland/deno/issues/1860)
 - deno eval [#2081](https://github.com/denoland/deno/issues/2081)
 - New permission to run Deno programs to avoid `--allow-run` privilege escalation [#2128](https://github.com/denoland/deno/issues/2128)
 
