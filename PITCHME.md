@@ -160,7 +160,7 @@ Using local caches<br>
 
 ---
 
-# Deno Community in Poland
+# Deno in Poland
 
 [Bartek Iwańczuk](https://github.com/bartlomieju)<br>
 [Michał Sabiniarz](https://github.com/mhvsa)<br>
