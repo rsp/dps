@@ -149,6 +149,43 @@ Using local caches<br>
 
 </small>
 
+---
+
+# Examples
+
+`$ deno --allow-net=localhost --no-prompt run script.ts`
+
+---
+
+Related info
+
+https://man.openbsd.org/pledge.2
+
+http://www.cap-lore.com/
+
+- [MicroEssays on Capability Theory](http://www.cap-lore.com/CapTheory)
+- [Computer Security, the Very Idea](http://www.cap-lore.com/Dual.html)
+
+---
+
+Interesting Systems
+
+- [OpenBSD](https://www.openbsd.org/)
+- [KeyKOS](http://cap-lore.com/CapTheory/upenn/)
+- [EROS](https://en.wikipedia.org/wiki/EROS_(microkernel))
+- [CapROS](https://en.wikipedia.org/wiki/CapROS)
+- [Coyotos](https://archiveos.org/coyotos/)
+
+---
+
+Papers
+
+- [GNOSIS - A Prototype Operating System for the 1990's](http://cap-lore.com/CapTheory/upenn/Gnosis/Gnosis.html) (1979)
+- [KeyKOS - A Secure, High-Performance Environment for S/370](http://cap-lore.com/CapTheory/upenn/Key370/Key370.html) (1988) 
+- [The KeyKOS Architecture](http://cap-lore.com/CapTheory/upenn/OSRpaper.html) (1985) 
+- [The Checkpoint Mechanism in KeyKOS](http://cap-lore.com/CapTheory/upenn/Checkpoint.html) (1992)
+- [The KeyKOS NanoKernel Architecture](http://cap-lore.com/CapTheory/upenn/NanoKernel/NanoKernel.html) (1992)
+- [BitC: A Modern Language for Systems Programming](http://www.cis.upenn.edu/~plclub/schedule/2009_spring_shap.pdf)
 
 ---
 
