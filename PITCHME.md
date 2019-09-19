@@ -10,7 +10,7 @@ You may know me from Stack Overflow
 
 ---
 
-# <small>Deno privileges and sandboxing</small>
+# <small>Deno privileges<br>and sandboxing</small>
 
 rethinking the security model in a new secure JavaScript/TypeScript runtime
 
