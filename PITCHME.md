@@ -178,10 +178,16 @@ Interesting Systems
 - [EROS](https://en.wikipedia.org/wiki/EROS_(microkernel))
 - [CapROS](https://en.wikipedia.org/wiki/CapROS)
 - [Coyotos](https://archiveos.org/coyotos/)
+- [OpenSolaris](https://en.wikipedia.org/wiki/OpenSolaris)
+- [SmartOS](https://www.joyent.com/smartos)
+- [OmniOS](https://omniosce.org/)
+- [Illumos](https://illumos.org/)
+- [Hurd](https://www.gnu.org/software/hurd/)
+- [MINIX](https://www.minix3.org/)
 
 ---
 
-Papers
+Papers 
 
 - [GNOSIS - A Prototype Operating System for the 1990's](http://cap-lore.com/CapTheory/upenn/Gnosis/Gnosis.html) (1979)
 - [KeyKOS - A Secure, High-Performance Environment for S/370](http://cap-lore.com/CapTheory/upenn/Key370/Key370.html) (1988) 
@@ -189,32 +195,6 @@ Papers
 - [The Checkpoint Mechanism in KeyKOS](http://cap-lore.com/CapTheory/upenn/Checkpoint.html) (1992)
 - [The KeyKOS NanoKernel Architecture](http://cap-lore.com/CapTheory/upenn/NanoKernel/NanoKernel.html) (1992)
 - [BitC: A Modern Language for Systems Programming](http://www.cis.upenn.edu/~plclub/schedule/2009_spring_shap.pdf) (1999)
-
----
-
-Recommended talks
-
-- [Ryan Dahl: Original Node.js presentation (2009)](https://www.youtube.com/watch?v=ztspvPYybIY)
-- [History of Node.js by Ryan Dahl (2011)](https://www.youtube.com/watch?v=SAc0vQCC6UQ)
-- [10 Things I Regret About Node.js by Ryan Dahl (2018)](https://www.youtube.com/watch?v=M3BM9TB-8yA)
-- [Deno, A New Server-Side Runtime by Ryan Dahl (2018)](https://www.youtube.com/watch?v=FlTG0UXRAkE)
-- [From Node.js to Deno - JS/TS runtime built with V8 and Rust by Rafał Pocztarski (2019)](https://www.youtube.com/watch?v=Aib1OZLy0_c&t=5s)
-
----
-
-# Resources
-
-<small>
-- https://deno.land/
-- https://denoland.org/
-- https://deno.land/manual.html
-- https://deno.land/typedoc/
-- https://deno.land/x/
-- https://www.typescriptlang.org/
-- https://github.com/TypeStrong/ts-node
-- https://nodejs.org/en/
-
-</small>
 
 ---
 
