@@ -166,6 +166,7 @@ Using local caches<br>
 [Michał Sabiniarz](https://github.com/mhvsa)<br>
 [Rafał Pocztarski](https://github.com/rsp)
 
+<small>
 [DenoWarsaw.com](https://DenoWarsaw.com/)<br>
 [meetup.com/DenoWarsaw](https://meetup.com/DenoWarsaw)<br>
 [twitter.com/DenoWarsaw](https://twitter.com/DenoWarsaw)
@@ -173,6 +174,8 @@ Using local caches<br>
 [DenoPoland.com](https://DenoPoland.com/)<br>
 [meetup.com/DenoPoland](https://meetup.com/DenoPoland)<br>
 [tweeter.com/DenoPoland](https://tweeter.com/DenoPoland)
+
+</small>
 
 ---
 
