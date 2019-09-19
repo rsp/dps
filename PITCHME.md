@@ -188,7 +188,7 @@ Papers
 - [The KeyKOS Architecture](http://cap-lore.com/CapTheory/upenn/OSRpaper.html) (1985) 
 - [The Checkpoint Mechanism in KeyKOS](http://cap-lore.com/CapTheory/upenn/Checkpoint.html) (1992)
 - [The KeyKOS NanoKernel Architecture](http://cap-lore.com/CapTheory/upenn/NanoKernel/NanoKernel.html) (1992)
-- [BitC: A Modern Language for Systems Programming](http://www.cis.upenn.edu/~plclub/schedule/2009_spring_shap.pdf)
+- [BitC: A Modern Language for Systems Programming](http://www.cis.upenn.edu/~plclub/schedule/2009_spring_shap.pdf) (1999)
 
 ---
 
