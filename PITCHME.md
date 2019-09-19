@@ -160,9 +160,7 @@ Using local caches<br>
 
 ---
 
-Deno Community in Poland
-
-<small>
+# Deno Community<br>in Poland
 
 [Bartek Iwańczuk](https://github.com/bartlomieju)<br>
 [Michał Sabiniarz](https://github.com/mhvsa)<br>
@@ -175,8 +173,6 @@ Deno Community in Poland
 [DenoPoland.com](https://DenoPoland.com/)<br>
 [meetup.com/DenoPoland](https://meetup.com/DenoPoland)<br>
 [tweeter.com/DenoPoland](https://tweeter.com/DenoPoland)
-
-</small>
 
 ---
 
